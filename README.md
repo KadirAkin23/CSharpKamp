@@ -25,3 +25,6 @@ Bir sınav sistemi simülasyonu oluşturarak foreach döngüsünü uygulamalı o
 
 8. Geriye Değer Döndüren Fonksiyonlar 🔍
 Son projede, kullanıcıdan alınan verilerle işlem yapan ve sonuç döndüren fonksiyonlar oluşturdum. Daha karmaşık işlemler yapmayı ve fonksiyonlarla verileri işleyip geri döndürmeyi öğrendim.
+
+10. DatabaseProject 🗄️
+Bu projede, veritabanı bağlantıları ve SQL sorguları ile çalıştım. Veritabanı oluşturma, veritabanına veri ekleme, güncelleme ve silme işlemlerini gerçekleştirdim. Ayrıca veritabanından veri çekerek uygulama üzerinde işleme becerisi kazandım.
