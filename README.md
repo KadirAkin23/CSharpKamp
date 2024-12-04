@@ -26,5 +26,8 @@ Bir sınav sistemi simülasyonu oluşturarak foreach döngüsünü uygulamalı o
 8. Geriye Değer Döndüren Fonksiyonlar 🔍
 Son projede, kullanıcıdan alınan verilerle işlem yapan ve sonuç döndüren fonksiyonlar oluşturdum. Daha karmaşık işlemler yapmayı ve fonksiyonlarla verileri işleyip geri döndürmeyi öğrendim.
 
-10. DatabaseProject 🗄️
+9. DatabaseProject 🗄️
 Bu projede, veritabanı bağlantıları ve SQL sorguları ile çalıştım. Veritabanı oluşturma, veritabanına veri ekleme, güncelleme ve silme işlemlerini gerçekleştirdim. Ayrıca veritabanından veri çekerek uygulama üzerinde işleme becerisi kazandım.
+
+10. TravelAnalysisProject 🌍 Bu projede, Entity Framework ve LINQ kullanarak tur verilerini analiz ettim. Ortalama tur fiyatını hesaplama, en çok tercih edilen ülkeyi bulma gibi işlemleri gerçekleştirdim. Bu sayede veritabanı üzerinden veri analizi yapma ve istatistiksel sonuçlar çıkarma konusunda tecrübe kazandım.
+
